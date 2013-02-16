@@ -192,7 +192,7 @@ This function returns the form string unless **$view_override** is set to true, 
 		<td>An optional array fields that will be hidden in the form. This is handy for str_id type fields.</td>
 	</tr>
 	<tr> 
-		<td>defualts</td>
+		<td>defaults</td>
 		<td>array</td>
 		<td>An optional associative array of fields => values that helps prepopulate the form with default data.</td>
 	</tr>
